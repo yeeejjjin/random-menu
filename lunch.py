@@ -2,11 +2,39 @@ import random
 
 menus = [{
     'name': '김치볶음밥',
-    'price': 6000
+    'price': 6000,
 },
 {
     'name': '초밥',
     'price': 10000
+},
+{
+    'name': '라면',
+    'price': 6000
+},
+{
+    'name': '햄버거',
+    'price': 5500
+},
+{
+    'name': '샌드위치',
+    'price': 6700
+},
+{
+    'name': '카레',
+    'price': 6500
+},
+{
+    'name': '쌀국수',
+    'price': 7300
+},
+{
+    'name': '돈까스',
+    'price': 8000
+},
+{
+    'name': '국밥',
+    'price': 5000
 },
 {
     'name': '라면',
